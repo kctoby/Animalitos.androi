@@ -1,0 +1,16 @@
+Compras en la Aplicacion
+http://docs.unity3d.com/es/current/Manual/UnityIAP.html
+
+publicidad en la aplicacion
+http://docs.unity3d.com/es/current/Manual/UnityAds.html
+
+Menu de niveles (1:20 hora de video)
+https://www.youtube.com/watch?v=xSDfSDTtUMs
+
+menu diseno de pausa
+https://www.youtube.com/watch?v=-AwrypTU9VM
+
+proyectil
+https://www.youtube.com/watch?v=L0tl0CwPYIc
+
+ AudioListener.volume // volumen maestro
